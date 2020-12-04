@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjIntegrador", "EjIntegrador.csproj", "{868FCA05-47F3-4E38-93F5-837F986E8F65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjIntegrador_Entidades", "..\EjIntegrador_Entidades\EjIntegrador_Entidades.csproj", "{B7384434-9A84-486D-9ECD-4981ECA039FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{868FCA05-47F3-4E38-93F5-837F986E8F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{868FCA05-47F3-4E38-93F5-837F986E8F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{868FCA05-47F3-4E38-93F5-837F986E8F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{868FCA05-47F3-4E38-93F5-837F986E8F65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7384434-9A84-486D-9ECD-4981ECA039FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7384434-9A84-486D-9ECD-4981ECA039FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7384434-9A84-486D-9ECD-4981ECA039FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7384434-9A84-486D-9ECD-4981ECA039FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8ADAD1AE-3FA3-47DB-A940-733DC7D988B2}
+	EndGlobalSection
+EndGlobal

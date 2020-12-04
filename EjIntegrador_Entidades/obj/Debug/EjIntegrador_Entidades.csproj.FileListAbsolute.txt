@@ -1,0 +1,12 @@
+C:\Users\diego\source\repos\EjIntegrador_Entidades\bin\Debug\EjIntegrador_Entidades.dll
+C:\Users\diego\source\repos\EjIntegrador_Entidades\bin\Debug\EjIntegrador_Entidades.pdb
+C:\Users\diego\source\repos\EjIntegrador_Entidades\obj\Debug\EjIntegrador_Entidades.csprojAssemblyReference.cache
+C:\Users\diego\source\repos\EjIntegrador_Entidades\obj\Debug\EjIntegrador_Entidades.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\EjIntegrador_Entidades\obj\Debug\EjIntegrador_Entidades.dll
+C:\Users\diego\source\repos\EjIntegrador_Entidades\obj\Debug\EjIntegrador_Entidades.pdb
+C:\Users\diego\Documents\GitHub\EjIntegrador-2daPractica\EjIntegrador_Entidades\bin\Debug\EjIntegrador_Entidades.dll
+C:\Users\diego\Documents\GitHub\EjIntegrador-2daPractica\EjIntegrador_Entidades\bin\Debug\EjIntegrador_Entidades.pdb
+C:\Users\diego\Documents\GitHub\EjIntegrador-2daPractica\EjIntegrador_Entidades\obj\Debug\EjIntegrador_Entidades.csprojAssemblyReference.cache
+C:\Users\diego\Documents\GitHub\EjIntegrador-2daPractica\EjIntegrador_Entidades\obj\Debug\EjIntegrador_Entidades.csproj.CoreCompileInputs.cache
+C:\Users\diego\Documents\GitHub\EjIntegrador-2daPractica\EjIntegrador_Entidades\obj\Debug\EjIntegrador_Entidades.dll
+C:\Users\diego\Documents\GitHub\EjIntegrador-2daPractica\EjIntegrador_Entidades\obj\Debug\EjIntegrador_Entidades.pdb
